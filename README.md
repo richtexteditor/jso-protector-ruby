@@ -1,3 +1,5 @@
+> **This repository has moved to [javascriptobfuscator-com/jso-protector-ruby](https://github.com/javascriptobfuscator-com/jso-protector-ruby).** It is archived and no longer updated.
+
 # jso_protector — Ruby client
 
 Ruby gem for the [JavaScript Obfuscator](https://javascriptobfuscator.com/) HTTP API. Mirrors the `protect()` surface of the [npm `jso-protector` CLI](https://javascriptobfuscator.com/docs/npmcli.aspx), the [Python](../jso-protector-python/), [Go](../jso-protector-go/), and [.NET](../jso-protector-dotnet/) clients so behavior stays in lockstep across runtimes.
